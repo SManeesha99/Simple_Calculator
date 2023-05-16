@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="btnDivide">/</string>
+    <string name="editNumber1">Enter number</string>
+    <string name="lable_Number1">Number 01</string>
+    <string name="lable_Number2">Number 02</string>
+    <string name="btnPlus">+</string>
+    <string name="btnMinus">-</string>
+    <string name="btnMuliply">X</string>
+    <string name="answer">Answer</string>
+
+</resources>
